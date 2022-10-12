@@ -20,7 +20,7 @@
     "request-promise-native": "1.0.7",
     "ts-node": "8.0.3",
     "typescript": "3.4.2",
-    "raml-1-parser": "^1.1.52",
+    "raml-1-parser": "^1.1.67",
     "chai-json-schema-ajv": "^4.0.0"
   }
 }
