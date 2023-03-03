@@ -15,12 +15,12 @@
     "@types/request-promise-native": "1.0.16",
     "@types/chai-json-schema": "^1.4.4",
     "chai": "4.2.0",
-    "mocha": "6.0.2",
+    "mocha": "6.2.3",
     "request": "2.88.0",
     "request-promise-native": "1.0.7",
     "ts-node": "8.0.3",
     "typescript": "3.4.2",
-    "raml-1-parser": "^1.1.52",
+    "raml-1-parser": "^1.1.67",
     "chai-json-schema-ajv": "^4.0.0"
   }
 }
